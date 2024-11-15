@@ -237,7 +237,7 @@
         "value": "Chủ nghĩa Mác – Lênin"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 3082,
@@ -261,7 +261,7 @@
         "value": "<p>Cách mạng tháng Mười &nbsp;năm 1917</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 3097,
@@ -285,7 +285,7 @@
         "value": "<p>Tư tưởng của các nhà chủ nghĩa xã hội không tưởng thế kỷ XIX</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 3101,
@@ -309,7 +309,7 @@
         "value": "<p>Tư tưởng từ bi, vị tha, yêu thương con người, khuyến khích con người làm việc thiện, chống lại điều ác</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 3106,
@@ -333,7 +333,7 @@
         "value": "Gửi Yêu sách của nhân dân An Nam tới Hội nghị Vécxây (18-6-1919) "
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 3115,
@@ -357,7 +357,7 @@
         "value": " “Vi hành”"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 3137,
@@ -381,7 +381,7 @@
         "value": "Thời kỳ 1930 - 1941 "
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 4020,
@@ -405,7 +405,7 @@
         "value": "Cụ Hoàng Thị An - Dì ruột Bác Hồ "
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 4030,
@@ -429,7 +429,7 @@
         "value": "6"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 4210,
@@ -453,7 +453,7 @@
         "value": "Lý luận về con đường đi lên xây dựng chủ nghĩa xã hội ở Việt Nam"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 3054,
@@ -477,7 +477,7 @@
         "value": " Tư tưởng của Tôn Trung Sơn "
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 3064,
@@ -501,7 +501,7 @@
         "value": "Những mặt tích cực của Nho giáo "
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 3075,
@@ -525,7 +525,7 @@
         "value": "Mao Trạch Đông"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 3131,
@@ -549,7 +549,7 @@
         "value": "Cải cách nền pháp lý Đông Dương bằng cách để người bản xứ cũng được quyền hưởng những bảo đảm pháp lý như người châu Âu. "
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 3146,
@@ -573,7 +573,7 @@
         "value": "<p>Giai đoạn đầu năm 1941 đến 1969</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 4052,
@@ -597,7 +597,7 @@
         "value": "<p>Vượt qua thử thách, giữ vững đường lối, phương pháp cách mạng Việt Nam đúng đắn, sáng tạo</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 4158,
@@ -621,7 +621,7 @@
         "value": "Tư tưởng Pháp trị, sử dụng pháp luật để giáo hóa người dân."
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 4150,
@@ -645,7 +645,7 @@
         "value": "Học chủ nghĩa Mác - Lênin để tìm ra những kết luận có sẵn cho con đường giải phóng dân tộc."
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 3910,
@@ -669,6 +669,6 @@
         "value": "Học thuyết Tôn Dật Tiên "
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   }
 ]

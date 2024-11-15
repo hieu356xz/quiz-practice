@@ -453,7 +453,7 @@
         "value": "Điều hành"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 5886,
@@ -477,7 +477,7 @@
         "value": "<p><span>&nbsp;Tháng 6/1925&nbsp;</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 5948,
@@ -501,7 +501,7 @@
         "value": "<p>Cách mệnh trước hết phải có cái gì? Trước hết phải có đảng cách mệnh</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 5979,
@@ -525,7 +525,7 @@
         "value": "<p>Mục tiêu kinh tế với mục tiêu chính trị&nbsp;</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 6006,
@@ -549,7 +549,7 @@
         "value": "<p>Khối đại đoàn kết dân tộc mà nòng cốt là liên minh công nông, trí thức&nbsp;</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 5909,
@@ -573,7 +573,7 @@
         "value": "<p>Đặc điểm của chủ nghĩa xã hội ở Việt Nam&nbsp;</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 5937,
@@ -597,7 +597,7 @@
         "value": "<p>&nbsp;Công nông là lực lượng nòng cốt</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 5966,
@@ -621,6 +621,6 @@
         "value": "<p>&nbsp;Về xã hội&nbsp;</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   }
 ]

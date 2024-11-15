@@ -525,7 +525,7 @@
         "value": "<p><span>Dân chủ đại diện&nbsp;</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 10032,
@@ -549,7 +549,7 @@
         "value": "<p><span>Các đoàn thế chính trị &nbsp;&nbsp;&nbsp;</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 10041,
@@ -573,7 +573,7 @@
         "value": "<p><span>Cán bộ, công chức là “đày tớ” của nhân dân.&nbsp;</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 10011,
@@ -597,7 +597,7 @@
         "value": "<p><span>Đảng viên&nbsp;</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 10059,
@@ -621,7 +621,7 @@
         "value": "<p><span>Tầng lớp doanh nhân</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 10004,
@@ -645,6 +645,6 @@
         "value": "<p><span>Nâng cao phẩm chất đạo đức</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   }
 ]

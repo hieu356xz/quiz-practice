@@ -597,7 +597,7 @@
         "value": "<p><span lang=\"PT-BR\">&nbsp;Có tinh thần quốc tế vô sản</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 11013,
@@ -621,7 +621,7 @@
         "value": "<p><span style=\"color:black;\">Gốc của người cách mạng&nbsp;</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 11188,
@@ -645,7 +645,7 @@
         "value": "<p><span style=\"color:black;\"><span lang=\"PT-BR\">Đạo đức&nbsp;</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 11045,
@@ -669,7 +669,7 @@
         "value": "<p><span>&nbsp;Trung với dân, hiếu với nước; cần, kiệm, liêm, chính, chí công vô tư; yêu thương con người, sống có tình có lí; có tinh thần quốc tế trong sáng</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 11074,
@@ -693,7 +693,7 @@
         "value": "<p><span lang=\"PT-BR\">Con người vừa hồng vừa chuyên&nbsp;</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 11198,
@@ -717,6 +717,6 @@
         "value": "<p><span>Giai cấp lãnh đạo</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   }
 ]

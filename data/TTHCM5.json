@@ -381,7 +381,7 @@
         "value": "<p><span>Phải cần cù, chịu thương chịu khó&nbsp;</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 10738,
@@ -405,7 +405,7 @@
         "value": "<p><span style=\"color:black;\"><span lang=\"PT-BR\">&nbsp;Từ vai trò cá nhân Hồ Chí Minh&nbsp;</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 10800,
@@ -429,7 +429,7 @@
         "value": "<p><span style=\"color:black;\">&nbsp;Độc lập, tự do và quyền bình đẳng giữa các dân tộc&nbsp;</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 10807,
@@ -453,7 +453,7 @@
         "value": "<p><span style=\"color:black;\">Vì phong trào của giai cấp nông dân</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 10846,
@@ -477,7 +477,7 @@
         "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>Liên minh các lực lượng dân tộc, dân chủ và hoà bình Việt Nam</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 10890,
@@ -501,7 +501,7 @@
         "value": "<p><span>Nhiệm vụ chính trị</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 10716,
@@ -525,7 +525,7 @@
         "value": "<p><span style=\"color:black;\">Chiến lược&nbsp;</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 10769,
@@ -549,7 +549,7 @@
         "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>&nbsp;Nhằm kết hợp sức mạnh dân tộc với sức mạnh thời đại, tạo sức mạnh tổng hợp cho cách mạng&nbsp;</span><o:p></o:p></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 10752,
@@ -573,7 +573,7 @@
         "value": "<p><span>Liên minh công nhân, nông dân và trí thức</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 10737,
@@ -597,6 +597,6 @@
         "value": "<p><span>Quyết tâm</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   }
 ]
