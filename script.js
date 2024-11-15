@@ -60,7 +60,7 @@ function startExamForAll(subject) {
               }
             }); // Gộp tất cả câu hỏi vào một mảng
 
-            const randomQuestions = getRandomQuestions(questions, onlyDisplayNonAnswer ? questions.length : 50); // Lấy 50 câu hỏi ngẫu nhiên
+            const randomQuestions = getRandomQuestions(questions, onlyDisplayNonAnswer ? questions.length : 30); // Lấy 50 câu hỏi ngẫu nhiên
             displayQuestions(randomQuestions); // Hiển thị câu hỏi
             isExamInProgress = true;
             document.getElementById("submit-btn").style.display = "block"; // Hiển thị nút nộp bài
