@@ -574,5 +574,29 @@
       }
     ],
     "correct_answer": 0
+  },
+  {
+    "id": 10737,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"PT-BR\"><strong>Em hãy chọn đáp án phù hợp, điền vào chỗ trống: “Một dân tộc không ……… mà cứ ngồi chờ dân tộc khác giúp đỡ thì không xứng đáng được độc lập”</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>&nbsp;Tự lực cách sinh&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>&nbsp;Đoàn kết</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>Chủ động&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span>Quyết tâm</span></p>"
+      }
+    ],
+    "correct_answer": 0
   }
 ]

@@ -646,5 +646,77 @@
       }
     ],
     "correct_answer": 0
+  },
+  {
+    "id": 11045,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>&nbsp;Đâu là chuẩn mực đạo đức cách mạng trong tư tưởng Hồ Chí Minh?</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>&nbsp;Trung với dân, hiếu với nước; cần, kiệm, liêm, chính, chỉ tư vô công; yêu thương con người, sống có tình có nghĩa; có tinh thần quốc tế trong sáng</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>&nbsp;Trung với nước, hiếu với dân; cần, kiệm, liêm, chính, chỉ tư vô công; yêu thương con người, sống có tình có lí; có tinh thần quốc tế trong sáng</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>Trung với nước, hiếu với dân; cần, kiệm, liêm, chính, chí công vô tư yêu thương con người, sống có tình có nghĩa; có tinh thần quốc tế trong sáng&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span>&nbsp;Trung với dân, hiếu với nước; cần, kiệm, liêm, chính, chí công vô tư; yêu thương con người, sống có tình có lí; có tinh thần quốc tế trong sáng</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 11074,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"PT-BR\"><strong>Nội dung xây dựng con người trong tư tưởng Hồ Chí Minh</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"PT-BR\">Con người có tài&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"PT-BR\">Con người có đức</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"PT-BR\">Con người có văn hoá</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"PT-BR\">Con người vừa hồng vừa chuyên&nbsp;</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 11198,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"PT-BR\"><strong>Theo Hồ Chí Minh, trung với nước là tuyệt đối trung thành với sự nghiệp dựng nước và giữ nước, trung thành với con đường đi lên của đất nước; là suốt đời phấn đấu cho:</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"PT-BR\">Cho cách mạng&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>Đảng, cho cách mạng&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>Giai cấp công nhân</span></p><p><span>&nbsp;</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span>Giai cấp lãnh đạo</span></p>"
+      }
+    ],
+    "correct_answer": 0
   }
 ]

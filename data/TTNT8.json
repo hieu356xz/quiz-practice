@@ -694,5 +694,29 @@
       }
     ],
     "correct_answer": 0
+  },
+  {
+    "id": 21202,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-ec886f47-7fff-2b39-6e7f-1f0e239d5ffa\">Trong suy diễn lùi, khi nào một điều kiện được xem là một giả thuyết mới xuất hiện?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-ffcd0808-7fff-5ea4-ee12-efc95f168e71\">Khi điều kiện đó không có trong bộ nhớ làm việc</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-883adc20-7fff-7a33-7cf3-e50ac21bdbbc\">Khi điều kiện đó xuất hiện trong bộ nhớ làm việc</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-56edbc26-7fff-9427-a473-785fa34b53e2\">Khi điều kiện đó không được thỏa mãn</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-ff52c4e0-7fff-ab8a-c3ef-542b212f6275\">Tất cả các phương án đều đúng</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
   }
 ]

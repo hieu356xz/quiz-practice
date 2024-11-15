@@ -646,5 +646,53 @@
       }
     ],
     "correct_answer": 0
+  },
+  {
+    "id": 14345,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-c2d282be-7fff-1db9-5db0-79f508e33388\"><span style=\"background-color:transparent;color:#000000;\"><strong>Sử dụng giải thuật nào để xác định được Alpha và Beta trong giải thuật cắt cụt Alpha-Beta?</strong></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-a68010b5-7fff-5a95-c6a7-3cedcc784b1a\"><span style=\"background-color:transparent;color:#000000;\">Giải thuật tìm kiếm beam.</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-d35c1bff-7fff-7d34-7455-9edd5e1abd83\"><span style=\"background-color:transparent;color:#000000;\">Giải thuật tìm kiếm theo chiều rộng.</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-a790fa5f-7fff-8cdd-28df-50b05f9da854\"><span style=\"background-color:transparent;color:#000000;\">Giải thuật tìm kiếm A*.</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-5cedaa3f-7fff-a1e8-7746-fc71c062f80c\">Không có đáp án nào thỏa mãn.</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14347,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-dab3ec8a-7fff-d801-3837-98def178fdfe\"><span style=\"background-color:transparent;color:#000000;\">Thuật toán cắt tỉa Alpha-Beta chủ yếu được sử dụng để làm gì?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-a8a2c9e1-7fff-f4c9-6183-c88446bf43ce\">Tối đa hóa giá trị của cây tìm kiếm.</span></span><br>&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-c0aa362b-7fff-0e1e-0713-6265108cc486\">Cắt bỏ những nhánh không cần thiết trong cây tìm kiếm</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-2d828fe0-7fff-20b7-3fd0-24fb090d29dc\">Tìm kiếm theo chiều sâu.</span></span><br>&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-9625eea8-7fff-325f-4543-e4f97aaaac1e\"><span style=\"background-color:transparent;color:#000000;\">Tăng kích thước cây tìm kiếm.</span></p>"
+      }
+    ],
+    "correct_answer": 0
   }
 ]

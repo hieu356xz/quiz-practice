@@ -1,29 +1,5 @@
 [
   {
-    "id": 1000009,
-    "question_direction": "<p class=\"MsoNormal\"><strong>Tư tưởng nào là tư tưởng xuyên suốt trong cuộc đời hoạt động cách mạng của Hồ Chí Minh?&nbsp;</strong><o:p></o:p></p><p class=\"MsoNormal\"><o:p></o:p></p>",
-    "question_type": "radio",
-    "answer_option": [
-      {
-        "id": "1",
-        "value": "<p>Giải phóng giai cấp&nbsp;</p>"
-      },
-      {
-        "id": "2",
-        "value": "<p>Độc lập dân tộc gắn liền với thống nhất Tổ quốc, toàn vẹn lãnh thổ</p>"
-      },
-      {
-        "id": "3",
-        "value": "<p>Độc lập dân tộc, dân chủ&nbsp;</p>"
-      },
-      {
-        "id": "4",
-        "value": "<p>Giải phóng con người&nbsp;</p>"
-      }
-    ],
-    "correct_answer": 2
-  },
-  {
     "id": 1000008,
     "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span><strong>Đoạn trích sau đây được Hồ Chí Minh viết trong tác phẩm nào: “Bất kỳ đàn ông, đàn bà, bất kỳ người già, người trẻ, không chia tôn giáo, đảng phái, dân tộc. Hễ là người Việt Nam thì phải đứng lên đánh thực dân Pháp để cứu Tổ quốc”&nbsp;</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
     "question_type": "radio",
