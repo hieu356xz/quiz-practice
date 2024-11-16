@@ -199,3 +199,19 @@ function submitExam() {
     document.getElementById("submit-btn").style.display = "none";
     isExamInProgress = false;
 }
+
+document.addEventListener('DOMContentLoaded', () => {
+    // Retrieve the saved question count from localStorage
+    let savedQuestionCount = localStorage.getItem('questionCount');
+    if (!savedQuestionCount) {
+        // If no saved question count, set default to 30
+        savedQuestionCount = '30';
+        localStorage.setItem('questionCount', savedQuestionCount);
+    }
+    document.getElementById('question-count').value = savedQuestionCount;
+});
+
+function saveQuestionCount() {
+    const questionCount = document.getElementById('question-count').value;
+    localStorage.setItem('questionCount', questionCount);
+}
