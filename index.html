@@ -13,6 +13,17 @@
         <button onclick="startExam('TTNT')">Trí tuệ nhân tạo</button>
     </div>
 
+    <div class="question-count-container">
+        <label for="question-count">Số lượng câu hỏi:</label>
+        <select id="question-count">
+            <option value="10">10</option>
+            <option value="20">20</option>
+            <option value="30" selected>30</option>
+            <option value="40">40</option>
+            <option value="50">50</option>
+        </select>
+    </div>
+
     <div id="questions" class="question-container"></div>
     <button id="submit-btn" onclick="submitExam()" style="display:none;">Nộp bài</button>
     

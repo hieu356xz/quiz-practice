@@ -22,7 +22,7 @@ h1 {
   flex-wrap: wrap;
   gap: 10px;
   justify-content: center;
-  margin-bottom: 20px;
+  margin-bottom: 14px;
 }
 
 button {
@@ -213,4 +213,26 @@ body.dark-mode .container {
 
 .hidden-radio {
   visibility: hidden;
+}
+
+.question-count-container {
+  display: flex;
+  margin-bottom: 14px;
+  align-items: center;
+}
+
+.question-count-container label {
+  background: #121212;
+  cursor: inherit;
+  font-size: 16px;
+  margin: 6px;
+}
+
+select {
+  background: #2a2a2a;
+  color: #e0e0e0;
+  border-radius: 4px;
+  padding: 4px 8px;
+  border: none;
+  font-size: 14px;
 }
