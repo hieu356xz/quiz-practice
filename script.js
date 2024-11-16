@@ -8,26 +8,8 @@ let isExamInProgress = false;
 let userAnswers = [];
 let correctAnswers = 0;
 
-// Start individual exam from a specific JSON file
-function startExam(file) {
-    if (isExamInProgress) {
-        alert("Bạn phải nộp bài hiện tại trước khi bắt đầu bài mới.");
-        return;
-    }
-
-    fetch(file)
-        .then(response => response.json())
-        .then(data => {
-            const randomQuestions = getRandomQuestions(data, 10); // Lấy ngẫu nhiên 10 câu hỏi
-            displayQuestions(randomQuestions);
-            isExamInProgress = true;
-            document.getElementById("submit-btn").style.display = "block"; // Hiển thị nút nộp bài
-        })
-        .catch(error => console.error("Lỗi khi tải file JSON:", error));
-}
-
 // Start final exam with 50 random questions from all JSON files
-function startExamForAll(subject) {
+function startExam(subject) {
     if (isExamInProgress) {
         alert("Bạn phải nộp bài hiện tại trước khi bắt đầu bài mới.");
         return;
