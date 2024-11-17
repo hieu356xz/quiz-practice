@@ -60,7 +60,13 @@ function getRandomQuestions(questions, count) {
 // Display questions on the page
 function displayQuestions(questions) {
     const questionsContainer = document.getElementById("questions");
-    questionsContainer.innerHTML = ""; // Clear old content
+    const resultContainer = document.getElementById("result");
+    const scoreElement = document.getElementById("score");
+
+    // Clear old content
+    questionsContainer.innerHTML = "";
+    scoreElement.textContent = "";
+    resultContainer.style.display = "none";
 
   questions.forEach((question, index) => {
       const questionDiv = document.createElement("div");
