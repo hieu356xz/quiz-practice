@@ -53,6 +53,7 @@ button:disabled {
   padding: 20px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
   margin-bottom: 20px;
+  font-size: 15px;
 }
 
 .question {
@@ -160,22 +161,42 @@ body.dark-mode .container {
 }
 
 .answer-div {
-  display: grid;
-  grid-template-columns: 1fr 1fr; /* Two columns */
-  gap: 10px; /* Space between columns */
+  display: flex;
+  flex-wrap: wrap; /* Allow items to wrap into multiple lines */
+  gap: 10px; /* Space between items */
   width: 100%;
-  min-height: 130px;
 }
 
 .answer-option-div {
+  flex: 1 1 calc(50% - 10px); /* Take up 50% of the container width minus the gap */
   display: flex;
   align-items: baseline;
   margin-bottom: 10px;
+  box-sizing: border-box; /* Include padding and border in the element's total width and height */
 }
 
-.answer-option {
-  display: flex;
-  align-items: baseline; /* Align items with the baseline of the first line of text */
+@media (max-width: 768px) {
+  .answer-option-div {
+    flex: 1 1 100%; /* Take up 100% of the container width on smaller screens */
+  }
+
+  .question-container {
+    padding: 10px;
+  }
+
+  .question {
+    padding: 5px;
+  }
+
+  body {
+    padding: 10px;
+  }
+}
+
+img {
+  max-width: 100%; /* Scale the image down to fit within its container */
+  height: auto; /* Maintain the aspect ratio */
+  display: block; /* Remove any extra space below the image */
 }
 
 .option-label-text {
