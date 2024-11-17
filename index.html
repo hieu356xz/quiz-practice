@@ -26,9 +26,18 @@
 
     <div id="questions" class="question-container"></div>
     <button id="submit-btn" onclick="submitExam()" style="display:none;">Nộp bài</button>
+
+    <div id="result-popup" class="result-popup-container">
+        <div class="result-popup-box">
+            <h1>Kết quả</h1>
+            <p class="score-text" id="popup-score"></p>
+            <p class="score-text" id="popup-detail"></p>
+            <button onclick="showResultPopup(false)" class="popup-close-button">Đóng</button>
+        </div>
+    </div>
     
     <div id="result" class="result-container" style="display:none;">
-        <p id="score"></p>
+        <p class="score-text" id="score"></p>
     </div>
 
     <script src="script.js"></script>

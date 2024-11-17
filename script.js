@@ -62,12 +62,16 @@ function displayQuestions(questions) {
     const questionsContainer = document.getElementById("questions");
     const resultContainer = document.getElementById("result");
     const scoreElement = document.getElementById("score");
+    const scoreTexts = document.querySelectorAll(".score-text");
 
     // Clear old content
     questionsContainer.innerHTML = "";
     scoreElement.textContent = "";
-    scoreElement.removeAttribute("class");
     resultContainer.style.display = "none";
+    scoreTexts.forEach(e => {
+      e.classList.remove("score-low-result", "score-medium-result")
+    })
+
 
   questions.forEach((question, index) => {
       const questionDiv = document.createElement("div");
@@ -153,6 +157,7 @@ function submitExam() {
     const questionContainers = document.getElementsByClassName("question");
     const resultContainer = document.getElementById("result");
     const scoreElement = document.getElementById("score");
+    const scoreTexts = document.querySelectorAll(".score-text");
 
     correctAnswers = 0;
     userAnswers = [];
@@ -201,13 +206,22 @@ function submitExam() {
         answerDiv.classList.add(answer.userAnswer === answer.correctAnswer ? 'correct' : 'incorrect');
     });
 
-    if (score < 5) {
-        scoreElement.classList.add("score-low-result");
-    } else if (score < 8) {
-        scoreElement.classList.add("score-medium-result");
-    } else {
-        scoreElement.classList.add("score-good-result");
-    }
+    scoreTexts.forEach(e => {
+      if (score < 5) {
+        e.classList.add("score-low-result");
+      } else if (score < 8) {
+        e.classList.add("score-medium-result");
+      }
+    })
+
+    // Result Popup
+    const resultPopupScore = document.getElementById("popup-score");
+    const resultPopupDetail = document.getElementById("popup-detail");
+
+    resultPopupScore.textContent = `Điểm của bạn: ${score}`;
+    resultPopupDetail.textContent = `Số câu trả lời đúng: ${correctAnswers}/${totalQuestions}`;
+
+    showResultPopup(true);
 
     scoreElement.textContent = `Điểm của bạn: ${score} (Số câu trả lời đúng: ${correctAnswers}/${totalQuestions})`;
     resultContainer.style.display = "block";
@@ -229,4 +243,14 @@ document.addEventListener('DOMContentLoaded', () => {
 function saveQuestionCount() {
     const questionCount = document.getElementById('question-count').value;
     localStorage.setItem('questionCount', questionCount);
+}
+
+function showResultPopup(show) {
+    const resultPopupContainer = document.getElementById("result-popup");
+    
+    if (show) {
+        resultPopupContainer.classList.add("popup-active");
+    } else {
+        resultPopupContainer.classList.remove("popup-active");
+    }
 }
