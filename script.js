@@ -66,6 +66,7 @@ function displayQuestions(questions) {
     // Clear old content
     questionsContainer.innerHTML = "";
     scoreElement.textContent = "";
+    scoreElement.removeAttribute("class");
     resultContainer.style.display = "none";
 
   questions.forEach((question, index) => {
@@ -199,6 +200,14 @@ function submitExam() {
         const answerDiv = questionContainers[index];
         answerDiv.classList.add(answer.userAnswer === answer.correctAnswer ? 'correct' : 'incorrect');
     });
+
+    if (score < 5) {
+        scoreElement.classList.add("score-low-result");
+    } else if (score < 8) {
+        scoreElement.classList.add("score-medium-result");
+    } else {
+        scoreElement.classList.add("score-good-result");
+    }
 
     scoreElement.textContent = `Điểm của bạn: ${score} (Số câu trả lời đúng: ${correctAnswers}/${totalQuestions})`;
     resultContainer.style.display = "block";

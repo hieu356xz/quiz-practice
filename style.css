@@ -105,17 +105,20 @@ input[type="radio"] {
 
 #score {
   font-size: 1.2rem;
-  color: #28a745;
   text-align: center;
   margin-bottom: 10px;
 }
 
-#timer {
-  font-size: 1.1rem;
+.score-low-result {
   color: #dc3545;
-  text-align: center;
-  font-weight: bold;
-  margin-bottom: 10px;
+}
+
+.score-medium-result {
+  color: #ffc107;
+}
+
+.score-good-result {
+  color: #28a745;
 }
 
 input[type="radio"]:checked {
