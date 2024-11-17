@@ -15,7 +15,7 @@ function startExam(subject) {
         return;
     }
 
-    const questionCount = parseInt(document.getElementById("question-count").value);
+    const questionCountElement = document.getElementById("question-count");
     let files = [];
     const questions = [];
 
@@ -42,6 +42,13 @@ function startExam(subject) {
                 questions.push(...result)
               }
             }); // Gộp tất cả câu hỏi vào một mảng
+
+            let questionCount = 0;
+            if (questionCountElement.value === 'all') {
+              questionCount = questions.length;
+            } else {
+              questionCount = parseInt(document.getElementById("question-count").value);
+            }
 
             const randomQuestions = getRandomQuestions(questions, onlyDisplayNonAnswer ? questions.length : questionCount); // Lấy câu hỏi ngẫu nhiên
             displayQuestions(randomQuestions); // Hiển thị câu hỏi

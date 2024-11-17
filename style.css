@@ -258,8 +258,9 @@ select {
   font-family: inherit;
   color: #e0e0e0;
   border-radius: 4px;
-  padding: 4px 8px;
+  padding: 4px 4px;
   border: none;
+  text-align: center;
 }
 
 .result-popup-container {
