@@ -249,19 +249,30 @@ function submitExam() {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    // Retrieve the saved question count from localStorage
+    // Retrieve the customize options from localStorage
     let savedQuestionCount = localStorage.getItem('questionCount');
+    let savedShuffleAnswers = localStorage.getItem('shuffleAnswers');
+
     if (!savedQuestionCount) {
         // If no saved question count, set default to 30
         savedQuestionCount = '30';
         localStorage.setItem('questionCount', savedQuestionCount);
     }
     document.getElementById('question-count').value = savedQuestionCount;
+
+    if (savedShuffleAnswers) {
+        document.getElementById('shuffle-answers').checked = JSON.parse(savedShuffleAnswers);
+    }
 });
 
 function saveQuestionCount() {
     const questionCount = document.getElementById('question-count').value;
     localStorage.setItem('questionCount', questionCount);
+}
+
+function saveShuffleAnswers() {
+  const shuffleAnswers = document.getElementById('shuffle-answers').checked;
+  localStorage.setItem('shuffleAnswers', shuffleAnswers);
 }
 
 function showResultPopup(show) {
