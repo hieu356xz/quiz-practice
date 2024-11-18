@@ -239,17 +239,28 @@ img {
   visibility: hidden;
 }
 
-.question-count-container {
+.customize-options-container {
   display: flex;
+  flex-direction: column;
   margin-bottom: 14px;
   align-items: center;
 }
 
-.question-count-container label {
-  background: #121212;
+.customize-options-container div {
+  display: flex;
+  align-items: center;
+}
+
+.customize-options-container label {
   cursor: inherit;
   font-size: 16px;
   margin: 6px;
+}
+
+.shuffle-answers-container input {
+  width: 16px;
+  height: 16px;
+  border-radius: 4px;
 }
 
 select {

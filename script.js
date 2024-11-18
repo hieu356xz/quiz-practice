@@ -64,12 +64,18 @@ function getRandomQuestions(questions, count) {
     return shuffled.slice(0, count);
 }
 
+function getShuffleAnwsers(answers) {
+  const shuffled = answers.sort(() => 0.5 - Math.random());
+  return shuffled;
+}
+
 // Display questions on the page
 function displayQuestions(questions) {
     const questionsContainer = document.getElementById("questions");
     const resultContainer = document.getElementById("result");
     const scoreElement = document.getElementById("score");
     const scoreTexts = document.querySelectorAll(".score-text");
+    const shuffleAnswers = document.getElementById("shuffle-answers").checked;
 
     // Clear old content
     questionsContainer.innerHTML = "";
@@ -111,17 +117,23 @@ function displayQuestions(questions) {
       answerDiv.classList.add("answer-div");
 
       const optionLabels = ['A', 'B', 'C', 'D'];
+      let answerOptions = question.answer_option;
+
+      // Shuffle answer options if the checkbox is checked
+      if (shuffleAnswers) {
+          answerOptions = getShuffleAnwsers(answerOptions);
+      }
 
       // Display answer options
-      question.answer_option.forEach((option, optionIndex) => {
-          const answerOpionDiv = document.createElement("div");
+      answerOptions.forEach((option, optionIndex) => {
+          const answerOptionDiv = document.createElement("div");
           const label = document.createElement("label");
           const input = document.createElement("input");
           const optionText = document.createElement("span");
           const optionTextP = document.createElement("p");
           const optionLabel = document.createElement("span");
 
-          answerOpionDiv.classList.add("answer-option-div");
+          answerOptionDiv.classList.add("answer-option-div");
           
           optionLabel.classList.add("option-label-text");
           optionLabel.textContent = optionLabels[optionIndex];
@@ -138,9 +150,9 @@ function displayQuestions(questions) {
           optionTextP.innerHTML = option.value;
           optionText.appendChild(optionTextP);
           
-          answerOpionDiv.appendChild(optionLabel);
-          answerOpionDiv.appendChild(label);
-          answerDiv.appendChild(answerOpionDiv);
+          answerOptionDiv.appendChild(optionLabel);
+          answerOptionDiv.appendChild(label);
+          answerDiv.appendChild(answerOptionDiv);
 
           input.addEventListener('change', () => {
             if (isExamInProgress) {
