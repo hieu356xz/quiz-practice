@@ -39,7 +39,10 @@ function startExam(subject) {
                 })
               }
               else {
-                questions.push(...result)
+                result.forEach(question => {
+                  if (question.correct_answer >= 1 & question.correct_answer <= 4)
+                    questions.push(question);
+                })
               }
             }); // Gộp tất cả câu hỏi vào một mảng
 
@@ -50,7 +53,7 @@ function startExam(subject) {
               questionCount = parseInt(document.getElementById("question-count").value);
             }
 
-            const randomQuestions = getRandomQuestions(questions, onlyDisplayNonAnswer ? questions.length : questionCount); // Lấy câu hỏi ngẫu nhiên
+            const randomQuestions = getRandomQuestions(questions, questionCount); // Lấy câu hỏi ngẫu nhiên
             displayQuestions(randomQuestions); // Hiển thị câu hỏi
             isExamInProgress = true;
             document.getElementById("submit-btn").style.display = "block"; // Hiển thị nút nộp bài
