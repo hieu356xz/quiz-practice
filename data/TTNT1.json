@@ -21,7 +21,7 @@
         "value": "<p class=\"MsoNormal\"><span lang=\"VI\">Hành động&nbsp;</span><span lang=\"EN-US\">như côn trùng</span><o:p></o:p></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 6787,
@@ -45,7 +45,7 @@
         "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">OPENAI</span><o:p></o:p></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 6790,
@@ -69,7 +69,7 @@
         "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">côn trùng</span><o:p></o:p></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 6796,
@@ -93,7 +93,7 @@
         "value": "<p class=\"MsoNormal\"><span lang=\"VI\">Hành động&nbsp;tập viết</span><o:p></o:p></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 6803,
@@ -117,7 +117,7 @@
         "value": "<p>Hành động ngẫu nhiên</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 6807,
@@ -141,7 +141,7 @@
         "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Nghệ thuật và nhân văn</span></span><o:p></o:p></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 6814,
@@ -165,7 +165,7 @@
         "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Tối ưu hóa hiệu suất phần cứng</span><o:p></o:p></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 6816,
@@ -189,7 +189,7 @@
         "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Tất cả các trường hợp trên</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 6823,
@@ -213,7 +213,7 @@
         "value": "<p><span lang=\"EN-US\">Từ 2010 đến nay</span><o:p></o:p></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 6824,
@@ -237,7 +237,7 @@
         "value": "<p><span lang=\"EN-US\">Từ 2010 đến nay</span><o:p></o:p></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 6826,
@@ -261,7 +261,7 @@
         "value": "<p><span lang=\"EN-US\">Lịch sử phát triển của trí tuệ nhân tạo</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 6829,
@@ -285,7 +285,7 @@
         "value": "<p><span lang=\"EN-US\">Một chương trình trò chơi điện tử được phát triển vào đầu thế kỷ 21.</span><o:p></o:p></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 6834,
@@ -309,7 +309,7 @@
         "value": "<p><span lang=\"EN-US\">Tất cả các trường hợp trên</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 6835,
@@ -333,7 +333,7 @@
         "value": "<p><span lang=\"EN-US\">Tạo ra các lý thuyết mới trong vật lý và toán học.</span><o:p></o:p></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 6782,
@@ -357,7 +357,7 @@
         "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Charles Babbage</span><o:p></o:p></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 6809,
@@ -381,7 +381,7 @@
         "value": "<p><span lang=\"EN-US\">Tất cả các trường hợp&nbsp;</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 6820,
@@ -405,7 +405,7 @@
         "value": "<p class=\"MsoNormal\">2020</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 6828,
@@ -429,7 +429,7 @@
         "value": "<p><span lang=\"EN-US\">Tất cả các đáp án trên&nbsp;</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 6830,
@@ -453,7 +453,7 @@
         "value": "<p><span lang=\"EN-US\">Phát triển phần mềm học sâu cho nhận diện hình ảnh.</span><o:p></o:p></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 6783,
@@ -477,7 +477,7 @@
         "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Hệ thống máy tính quản lý cơ sở dữ liệu</span><o:p></o:p></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 6788,
@@ -501,7 +501,7 @@
         "value": "<p><span lang=\"EN-US\">nghiên cứu và mô phỏng</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 6818,
@@ -525,7 +525,7 @@
         "value": "<p><span lang=\"EN-US\">2010-nay</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 6832,
@@ -549,7 +549,7 @@
         "value": "<p><span lang=\"EN-US\">Quản lý dữ liệu và tối ưu hóa hệ thống mạng.</span><o:p></o:p></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 6805,
@@ -573,7 +573,7 @@
         "value": "<p>4</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 6812,
@@ -597,7 +597,7 @@
         "value": "<p>một nhánh</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 6817,
@@ -621,7 +621,7 @@
         "value": "<p><span lang=\"EN-US\">Chỉ trong lĩnh vực khoa học và nghiên cứu.</span><o:p></o:p></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 6825,
@@ -645,7 +645,7 @@
         "value": "<p>Hệ thống thông tin địa lý<o:p></o:p></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 6831,
@@ -669,7 +669,7 @@
         "value": "<p>Calculator</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 6821,
@@ -693,6 +693,6 @@
         "value": "<p>Nhiều hơn 3</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   }
 ]
