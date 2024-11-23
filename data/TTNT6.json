@@ -621,7 +621,7 @@
         "value": "<p><span lang=\"EN-US\">cơ chế làm việc</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 14686,
@@ -645,7 +645,7 @@
         "value": "<p>A⇒B là công thức</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 14699,
@@ -669,7 +669,7 @@
         "value": "<p><span lang=\"EN-US\">Không có cùng giá trị chân lý trong mọi minh hoạ</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 14737,
@@ -693,7 +693,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-4158b17f-7fff-43fe-f619-f6105a63fb53\">Không xác định</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 14720,
@@ -717,6 +717,6 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-8ab6bee1-7fff-aa30-6900-301a8bc2cabb\">(A∧C)∨(B∧C)</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   }
 ]

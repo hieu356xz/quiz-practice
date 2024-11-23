@@ -549,7 +549,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-9166301e-7fff-917e-6203-ddfcbef336ec\">Tất cả các phương án đều đúng</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 21089,
@@ -573,7 +573,7 @@
         "value": "<p>6</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 21252,
@@ -597,7 +597,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-287ae5c8-7fff-468e-cde4-ca0ec2ea45d2\">Trời gió</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 21220,
@@ -621,7 +621,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-4b4a97e2-7fff-2525-4b48-f1e4b386e3c2\">Trời lũ</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 21278,
@@ -645,7 +645,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-fae50f2b-7fff-d26b-98da-2d93b165583c\">Trời nắng</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 23307,
@@ -669,7 +669,7 @@
         "value": "<p><meta charset=\"utf-8\">Vịt</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 23311,
@@ -693,7 +693,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-ba3f86d8-7fff-016b-c332-23e960bb0ab9\">Vịt trời</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 21202,
@@ -717,6 +717,6 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-ff52c4e0-7fff-ab8a-c3ef-542b212f6275\">Tất cả các phương án đều đúng</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   }
 ]

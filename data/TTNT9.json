@@ -477,7 +477,7 @@
         "value": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-ec220f36-7fff-42a6-d519-72a21c820cac\">feature (x, y) ∧ feature(y, p, v) ⇒ feature(x, p, v)</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 23813,
@@ -501,7 +501,7 @@
         "value": "<p>isa( Các cơn bão năm 2024, Bão Yagi)</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 23827,
@@ -525,7 +525,7 @@
         "value": "<p>Thống kê dữ liệu</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 23852,
@@ -549,7 +549,7 @@
         "value": "<p>8</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 23315,
@@ -573,7 +573,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-a3a96c4d-7fff-05ab-e770-ebd961b9a924\">hành động</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 23316,
@@ -597,7 +597,7 @@
         "value": "<p>feature</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 23814,
@@ -621,7 +621,7 @@
         "value": "<p>isa(Môn học trí tuệ nhân tạo, tín chỉ, 3)</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 23825,
@@ -645,7 +645,7 @@
         "value": "<p>Thuộc tính</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 23876,
@@ -669,7 +669,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-8c944d70-7fff-1ef5-3082-6ad15f52db8f\">Miki là thành viên của lớp albatross, albatross là lớp con của lớp bird</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 23894,
@@ -693,6 +693,6 @@
         "value": "<p>feature</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   }
 ]

@@ -381,7 +381,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-009b97df-7fff-9856-43a7-dec9ab835fee\">f là công thức phân tử</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 14804,
@@ -405,7 +405,7 @@
         "value": "<p>Yourger(Lan,20)∧ Yourger(An,20)∧ Yourger(Hoa,20)</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 14809,
@@ -429,7 +429,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-a12329a8-7fff-ccce-e642-a0dad1016256\">Yourger(Lan,20)∨ Yourger(An,20)∨ Yourger(Hoa,20)</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 14821,
@@ -453,7 +453,7 @@
         "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33288.png\" alt=\"33288|serverAws\"></figure>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 14843,
@@ -477,7 +477,7 @@
         "value": "<p><span lang=\"EN-US\">Chiến lược phân giải tuyến tính</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 14854,
@@ -501,7 +501,7 @@
         "value": "<p><span lang=\"EN-US\">θ=[ y/x, x/y]</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 14891,
@@ -525,7 +525,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-2504f31e-7fff-4cec-ad69-176f717c3430\">⎤</span></span><span lang=\"EN-US\">Q(a)</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 14795,
@@ -549,7 +549,7 @@
         "value": "<p>False</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 14850,
@@ -573,7 +573,7 @@
         "value": "<p><span lang=\"EN-US\">Luật suy diễn Modus Tolens</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 14878,
@@ -597,7 +597,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-0827ef3a-7fff-b323-fbf5-53b942d73ff0\">H(b,a)</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 14827,
@@ -621,7 +621,7 @@
         "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33300.png\" alt=\"33300|serverAws\"></figure>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 14874,
@@ -645,7 +645,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-13cb5682-7fff-26d9-de1f-088d5fc1a500\">⎤Q(b,a)</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 14792,
@@ -669,7 +669,7 @@
         "value": "<p>Student(Lan) <meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-a93a8007-7fff-01e9-ed32-4adfa5e0a5ad\">∧&nbsp;</span></span> Student(An) <meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-a93a8007-7fff-01e9-ed32-4adfa5e0a5ad\">∧&nbsp;</span></span> Student(Hoa)</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 14747,
@@ -693,7 +693,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-2b707f9e-7fff-930c-37f5-9a71e6d7476b\">Các hạng thức</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 14745,
@@ -717,6 +717,6 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-47605844-7fff-facd-aa2e-87618905bda3\">Các ký hiệu hạng thức</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   }
 ]

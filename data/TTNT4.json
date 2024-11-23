@@ -381,7 +381,7 @@
         "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Tìm kiếm tốt nhất đầu tiên</span></span><span lang=\"EN-US\"> kết hợp hàm đánh giá f(u)</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 10174,
@@ -405,7 +405,7 @@
         "value": "<p class=\"MsoNormal\"><span style=\"background-color:white;\"><span lang=\"EN-US\">Thuật toán tìm kiếm f(u)</span></span><o:p></o:p></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 10187,
@@ -429,7 +429,7 @@
         "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">53</span></span><o:p></o:p></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 10203,
@@ -453,7 +453,7 @@
         "value": "<p>6</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 10205,
@@ -477,7 +477,7 @@
         "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-D-B-C-H</span><o:p></o:p></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 10222,
@@ -501,7 +501,7 @@
         "value": "<p class=\"MsoNormal\">Tính <span class=\"hljs-selector-tag\">to</span>án đường vận chuyển giữ<span class=\"hljs-selector-tag\">a</span> các <span class=\"hljs-selector-tag\">th</span>ành phố</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 10227,
@@ -525,7 +525,7 @@
         "value": "<p>7</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 9558,
@@ -549,7 +549,7 @@
         "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">f(u)=g(u)×h(u)&nbsp;</span></span><o:p></o:p></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 3
   },
   {
     "id": 9574,
@@ -573,7 +573,7 @@
         "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Các trạng thái kề và các trạng thái chờ được phát triển</span></span><o:p></o:p></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 10171,
@@ -597,7 +597,7 @@
         "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">g(u)+k(u,v)+h(u)</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 10225,
@@ -621,7 +621,7 @@
         "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-D-C-E</span><o:p></o:p></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 9573,
@@ -645,7 +645,7 @@
         "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Lưu&nbsp;</span></span><span lang=\"EN-US\">số đỉnh đã xét</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 10185,
@@ -669,7 +669,7 @@
         "value": "<p>12</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 9561,
@@ -693,6 +693,6 @@
         "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Chi phí từ&nbsp;</span></span><span lang=\"EN-US\">trạng thái</span><span style=\"color:black;\"><span lang=\"EN-US\"> hiện tại đến&nbsp;</span></span><span lang=\"EN-US\">trạng thái</span><span style=\"color:black;\"><span lang=\"EN-US\"> con</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   }
 ]

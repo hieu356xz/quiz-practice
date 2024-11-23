@@ -381,7 +381,7 @@
         "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-8688b1f0-7fff-2959-8dbc-2f6417044656\"><span style=\"background-color:transparent;color:#000000;\">Tất cả các đáp án đều sai.</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 14331,
@@ -405,7 +405,7 @@
         "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-6a642490-7fff-88f9-57b7-55abda19a5d9\"><span style=\"background-color:transparent;color:#000000;\">Giá trị của nước đi hiện tại</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 14355,
@@ -429,7 +429,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-e961b151-7fff-7cf2-f74b-56949e2692d4\">Tất cả các đáp án đều đúng</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 14580,
@@ -453,7 +453,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-df885e75-7fff-5123-07f1-dd748847ad76\">Cả 3 đáp án trên đều đúng&nbsp;</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 14586,
@@ -477,7 +477,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-1856cba4-7fff-8161-01f7-1d350ecb6fb7\">Vì nó giảm số lượng nhánh cần duyệt qua</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 14614,
@@ -501,7 +501,7 @@
         "value": "<p>0</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 14647,
@@ -525,7 +525,7 @@
         "value": "<p>5</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 14353,
@@ -549,7 +549,7 @@
         "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-6fd47e49-7fff-bacb-0ba3-84af1a751267\"><span style=\"background-color:transparent;color:#000000;\">có quá trình xử lý tìm kiếm tối ưu</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 14566,
@@ -573,7 +573,7 @@
         "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-31e1cf23-7fff-0201-993f-d4f6395ad621\"><span style=\"background-color:#ffffff;color:#000000;\">Khi eval(u) &gt; 0&nbsp; và eval(v) &gt;0.</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 14570,
@@ -597,7 +597,7 @@
         "value": "<p>12</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 14575,
@@ -621,7 +621,7 @@
         "value": "<p>5</p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   },
   {
     "id": 14336,
@@ -645,7 +645,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-cffdb01a-7fff-83b0-7bd7-b7f693146f0b\">Chiến lược Minimax không cho phép ta tìm ra nước đi tối ưu cho quân Trắng</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 1
   },
   {
     "id": 14345,
@@ -669,7 +669,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-5cedaa3f-7fff-a1e8-7746-fc71c062f80c\">Không có đáp án nào thỏa mãn.</span></span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 4
   },
   {
     "id": 14347,
@@ -693,6 +693,6 @@
         "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-9625eea8-7fff-325f-4543-e4f97aaaac1e\"><span style=\"background-color:transparent;color:#000000;\">Tăng kích thước cây tìm kiếm.</span></p>"
       }
     ],
-    "correct_answer": 0
+    "correct_answer": 2
   }
 ]
