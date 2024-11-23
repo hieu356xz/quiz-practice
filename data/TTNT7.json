@@ -21,7 +21,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-28a4a65b-7fff-75b8-9227-39094b772aae\">Các ký hiệu phân tử</span></span></p>"
       }
     ],
-    "correct_anwser": 2
+    "correct_answer": 2
   },
   {
     "id": 14750,
@@ -45,7 +45,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-a3894ecc-7fff-1478-48ab-300fbf1f1be4\">thành phần</span></span></p>"
       }
     ],
-    "correct_anwser": 2
+    "correct_answer": 2
   },
   {
     "id": 14756,
@@ -69,7 +69,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-2283766a-7fff-4cb1-1219-a6e262660293\">mother&nbsp; là câu phức</span></span></p>"
       }
     ],
-    "correct_anwser": 1
+    "correct_answer": 1
   },
   {
     "id": 14778,
@@ -93,7 +93,7 @@
         "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33223.png\" alt=\"33223|serverAws\"></figure>"
       }
     ],
-    "correct_anwser": 2
+    "correct_answer": 2
   },
   {
     "id": 14781,
@@ -117,7 +117,7 @@
         "value": "<figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33230.png\" alt=\"33230|serverAws\"></figure>"
       }
     ],
-    "correct_anwser": 3
+    "correct_answer": 3
   },
   {
     "id": 14815,
@@ -141,7 +141,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-5d38a197-7fff-4389-315c-e974d559efa0\">∀</span><span id=\"docs-internal-guid-edafd0ef-7fff-dde7-2b48-b59d7d1da198\">xP(x, f(a, y)) ∧ ∃y Q(y)</span></span></p>"
       }
     ],
-    "correct_anwser": 2
+    "correct_answer": 2
   },
   {
     "id": 14818,
@@ -165,7 +165,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-38dc015d-7fff-7f91-67a3-7f0c30ddef12\">G⇒⎤G</span></span></p>"
       }
     ],
-    "correct_anwser": 2
+    "correct_answer": 2
   },
   {
     "id": 14830,
@@ -189,7 +189,7 @@
         "value": "<p>9</p>"
       }
     ],
-    "correct_anwser": 8
+    "correct_answer": 8
   },
   {
     "id": 14834,
@@ -213,7 +213,7 @@
         "value": "<p><span lang=\"EN-US\">Câu rỗng được sinh ra hoặc không sinh ra câu mới</span></p>"
       }
     ],
-    "correct_anwser": 4
+    "correct_answer": 4
   },
   {
     "id": 14841,
@@ -237,7 +237,7 @@
         "value": "<p><span lang=\"EN-US\">Like (f(x), Football)</span></p>"
       }
     ],
-    "correct_anwser": 2
+    "correct_answer": 2
   },
   {
     "id": 14859,
@@ -261,7 +261,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-4ff66fc9-7fff-98e8-046b-c73a521e5283\">∃y∀x⎤Q(x,y)</span></span></p>"
       }
     ],
-    "correct_anwser": 2
+    "correct_answer": 2
   },
   {
     "id": 14866,
@@ -285,7 +285,7 @@
         "value": "<p><span lang=\"EN-US\">Like (f(x), Travel)</span></p>"
       }
     ],
-    "correct_anwser": 2
+    "correct_answer": 2
   },
   {
     "id": 14869,
@@ -309,7 +309,7 @@
         "value": "<p><span lang=\"EN-US\">Luật suy diễn Modus Tolens</span></p>"
       }
     ],
-    "correct_anwser": 2
+    "correct_answer": 2
   },
   {
     "id": 14871,
@@ -333,7 +333,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-f5d7fe55-7fff-85d9-22b6-d75a21b93d10\">∀y∃x(⎤P(x,y) ∧⎤Q(y)) ∨ ∀xR(x)</span></span></p>"
       }
     ],
-    "correct_anwser": 4
+    "correct_answer": 4
   },
   {
     "id": 14883,
@@ -357,7 +357,7 @@
         "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-4dad60cf-7fff-fd50-cba4-27f0db280bb6\">⎤</span></span><span lang=\"EN-US\">R(b)</span></p>"
       }
     ],
-    "correct_anwser": 2
+    "correct_answer": 2
   },
   {
     "id": 14753,
