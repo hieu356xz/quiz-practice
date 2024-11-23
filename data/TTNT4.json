@@ -601,7 +601,7 @@
   },
   {
     "id": 10225,
-    "question_direction": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/22898.png\" alt=\"22898|serverAws\"></figure><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub>=A; T= {I, E, J}</span></span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm A* thì các đỉnh được xét để tìm đường đi ngắn nhất từ </span><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub></span></span><span lang=\"EN-US\"> đến đích là:</span><o:p></o:p></p>",
+    "question_direction": "<p><span style=\"color:black;\"><span lang=\"EN-US\">(Đề sai) Cho đồ thị không gian trạng thái sau:</span></span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/22898.png\" alt=\"22898|serverAws\"></figure><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub>=A; T= {I, E, J}</span></span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm A* thì các đỉnh được xét để tìm đường đi ngắn nhất từ </span><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub></span></span><span lang=\"EN-US\"> đến đích là:</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
